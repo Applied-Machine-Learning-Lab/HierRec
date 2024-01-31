@@ -1,0 +1,3 @@
+user_id,video_id,is_click,tab,user_active_degree,is_lowactive_period,is_live_streamer,is_video_author,follow_user_num,follow_user_num_range,fans_user_num,fans_user_num_range,friend_user_num,friend_user_num_range,register_days,register_days_range,onehot_feat0,onehot_feat1,onehot_feat2,onehot_feat3,onehot_feat4,onehot_feat5,onehot_feat6,onehot_feat7,onehot_feat8,onehot_feat9,onehot_feat10,onehot_feat11,onehot_feat12,onehot_feat13,onehot_feat14,onehot_feat15,onehot_feat16,onehot_feat17,video_type,visible_status,server_width,server_height
+0,554434,0,1,1,0,1,1,514,7,150,3,34,3,799,6,1,1,29,949,1,0,0,14,135,6,3,0,0,1,0,0,0,0,0,0,720,1282
+3,554434,1,1,1,0,1,1,91,6,2166,4,14,2,2145,6,0,2,2,1153,4,0,0,15,118,6,2,2,1,0,0,0,0,0,0,0,720,1282
