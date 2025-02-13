@@ -6,10 +6,11 @@
 # Citation
 If you want to use the code or cite our paper, please add the following citation to your paper references currently.
 ```
-@article{gao2023scenario,
-  title={Scenario-Aware Hierarchical Dynamic Network for Multi-Scenario Recommendation},
+@inproceedings{gao2024hierrec,
+  title={HierRec: Scenario-Aware Hierarchical Modeling for Multi-scenario Recommendations},
   author={Gao, Jingtong and Chen, Bo and Zhu, Menghui and Zhao, Xiangyu and Li, Xiaopeng and Wang, Yuhao and Wang, Yichao and Guo, Huifeng and Tang, Ruiming},
-  journal={arXiv preprint arXiv:2309.02061},
-  year={2023}
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={653--662},
+  year={2024}
 }
 ```
